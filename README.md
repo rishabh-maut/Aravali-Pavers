@@ -1,73 +1,141 @@
-# Welcome to your Lovable project
 
-## Project info
+Ran tool
 
-**URL**: https://lovable.dev/projects/813fb89f-1190-41e5-9e50-01bd132caa94
+Ran tool
 
-## How can I edit this code?
+Ran tool
 
-There are several ways of editing your application.
+Ran tool
 
-**Use Lovable**
+Read file: package.json
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/813fb89f-1190-41e5-9e50-01bd132caa94) and start prompting.
+Read file: README.md
 
-Changes made via Lovable will be committed automatically to this repo.
+Read file: src/pages/Index.tsx
 
-**Use your preferred IDE**
+Read file: src/components/HeroSection.tsx
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Read file: src/components/AboutSection.tsx
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Read file: src/components/ProductsSection.tsx
 
-Follow these steps:
+Read file: src/components/ContactSection.tsx
+Thank you for your patience! Here’s a professional, comprehensive README for your GitHub project, based on your codebase and its features:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Aravali Pavers Landing Page
 
-# Step 3: Install the necessary dependencies.
-npm i
+A modern, responsive landing page for Aravali Coop. I&C Society Ltd., an ISO 9001 certified manufacturer of paver blocks, kerb stones, retaining wall blocks, and more. Built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🚀 Features
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Beautiful, Responsive Design:** Modern UI with smooth animations and mobile-friendly layouts.
+- **Company Overview:** About section highlighting mission, vision, and infrastructure.
+- **Product Showcase:** Detailed product sections for pavers, textures, and construction blocks.
+- **Project Highlights:** Section to showcase completed projects.
+- **Contact Form:** Users can reach out via a form (integrated with Formcarry) or find direct contact info.
+- **Reusable Components:** Modular React components for easy maintenance and scalability.
+- **Built with Modern Stack:** Vite, React, TypeScript, Tailwind CSS, shadcn/ui, and more.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🏢 About Aravali Coop. I&C Society Ltd.
 
-## What technologies are used for this project?
+Founded in 2012, Aravali Coop. I&C Society Ltd. is a leading manufacturer of precast products including paver blocks, kerb stones, retaining wall blocks, and solid blocks. With a decade of experience and ISO:9001 certification, we deliver quality and innovation for construction needs.
 
-This project is built with:
+**Mission:**  
+To provide complete paving solutions under one roof with best-in-class products for architects, builders, and construction companies.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**Vision:**  
+To be the industry leader in precast products, offering innovative and sustainable solutions.
 
-## How can I deploy this project?
+**Infrastructure Highlights:**
+- Fully automatic, state-of-the-art plant and machinery
+- Vibro press technology and PLC-based batching
+- Shot blasting for surface finishing
+- Own fleet for timely delivery
 
-Simply open [Lovable](https://lovable.dev/projects/813fb89f-1190-41e5-9e50-01bd132caa94) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🛠️ Tech Stack
 
-Yes, you can!
+- **Frontend:** React, TypeScript, Vite
+- **Styling:** Tailwind CSS, shadcn/ui
+- **Forms:** Formcarry integration
+- **Routing:** React Router
+- **State Management:** React Query
+- **Linting:** ESLint
+- **Other:** Radix UI, Lucide Icons, and more
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📦 Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/rishabh-maut/Aravali-Pavers.git
+   cd Aravali-Pavers
+   ```
+
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```sh
+   npm run build
+   ```
+
+---
+
+## 🖼️ Main Sections
+
+- **Hero Section:** Brand message, call-to-action, and product imagery
+- **About Us:** Company background, mission, vision, and infrastructure
+- **Products:**  
+  - Heavy Duty Pavers (Zig-Zag, I-Shaped, Brick, Square, Cobble Stone)
+  - Textures (Plain, Shot Blasted, Stone)
+  - Construction Blocks (Kerb Stone, Retaining Wall, Solid, Hollow Blocks)
+- **Projects:** Showcase of completed works
+- **Contact:** Location, email, phone, working hours, and contact form
+
+---
+
+## 📬 Contact
+
+- **Location:** Vipul Plaza, Sector-8, Manufacturing unit Village Pali, Faridabad, Haryana
+- **Email:** thearavalipaverblocks@gmail.com
+- **Phone:** +91 9711113111, +91 9671340064
+- **Working Hours:** Mon-Sat: 9:00 AM - 6:00 PM
+
+---
+
+## 🌐 Deployment
+
+This project can be easily deployed on Netlify, Vercel, or any static hosting provider.  
+To deploy, build the project and upload the contents of the `dist` folder.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Would you like me to update your README.md file with this content? If you want to add or change any section, let me know!
